@@ -1,0 +1,2 @@
+- Revisar Framework de negocio, Spring - rest
+- Revisar Framework de presentación, AngularJS.
