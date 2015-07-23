@@ -1,2 +1,4 @@
 - Revisar Framework de negocio, Spring - rest
+http://www.programming-free.com/2014/01/spring-mvc-40-restful-web-services.html
+
 - Revisar Framework de presentación, AngularJS.
